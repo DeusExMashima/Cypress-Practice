@@ -1,0 +1,12 @@
+{
+  "name": "cypress-practice",
+  "version": "1.0.0",
+  "description": "Practicing Cypress.io",
+  "main": "index.js",
+  "repository": "https://github.com/zimashima/Cypress-Practice.git",
+  "author": "Mashima Button",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  }
+}
